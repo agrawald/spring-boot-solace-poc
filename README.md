@@ -10,7 +10,7 @@ POC for implementing Solace PubSub+ using Spring-boot.
 
  2. Then start the application using the following command
  
-   > gradlew bootRun
+    > gradlew bootRun
 
 # what to expect
 
